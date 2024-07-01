@@ -34,4 +34,4 @@ We created some unique styles for Cima Kids by using HTML, CSS, JS, then we crea
 ### Organaization Link : [Organaization](https://github.com/developing-team)
 
 
-### You can see Cima Kids Website from here : [Cima Kids](https://othmandaoud.github.io/project-cima-kids/)
+### Live URL for Cima Kids : [Cima Kids](https://othmandaoud.github.io/project-cima-kids/)
