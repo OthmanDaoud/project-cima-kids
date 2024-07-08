@@ -15,7 +15,6 @@ We created some unique styles for Cima Kids by using HTML, CSS, JS, then we crea
 3. Pagination on the home page.
 4. Search bar and filter by Category on the Catalogue page.
 
-
 ## Tools we used
 
 1. Html
@@ -27,11 +26,8 @@ We created some unique styles for Cima Kids by using HTML, CSS, JS, then we crea
 
 ### Trello Link : [Trello](https://trello.com/b/bDdlIz7v/javascriptproject)
 
-
-### Figma Link : [Figma](https://www.figma.com/design/S0LTp0Ei0aaqR4mCZw6F4s/Movie-Website-(Community)?node-id=644-11325)
-
+### Figma Link : [Figma](<https://www.figma.com/design/S0LTp0Ei0aaqR4mCZw6F4s/Movie-Website-(Community)?node-id=644-11325>)
 
 ### Organaization Link : [Organaization](https://github.com/developing-team)
-
 
 ### Live URL for Cima Kids : [Cima Kids](https://othmandaoud.github.io/project-cima-kids/)
